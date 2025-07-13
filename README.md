@@ -26,3 +26,4 @@ The analysis focuses on understanding and improving various aspects of sales thr
 ## Conclusion
 
 This SQL-based analysis helps Walmart better understand its sales data and optimize its strategy for improved customer experience, increased sales, and targeted branch-level enhancements. The project provides a foundational framework for data-driven decision-making within retail environments. 
+.sql
